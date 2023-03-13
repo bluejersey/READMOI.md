@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @al337a
--  I’m interested in Security engineering, web app development, all aspects of design, data science, cloud development, linux and SaaS applications
--  I’m currently learning security engineering, figma and product development
--  I'm lowkey looking for a technical person (co-founder)
+-  I’m interested in Security engineering, web app development, all aspects of design, data science, cloud development, linux and SaaS application
+-  I'm lowkey looking for a co-founder leaning towards governance, documentmanagement, informationmanagement 
 
 
 <!---
