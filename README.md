@@ -2,6 +2,7 @@
 -  I’m building a SaaS startup which is about innovating board meeting software. 
 -  Other categories are Document Management Sytem (DMS), Information management
 -  Market research is currently on top of my to-do list. By doing market research, you will see that platforms in this industry are pretty much offering the same things, but with  a different price, different look. Working on changing this.
+-  To built a platform where it is absolutely key that from where we built, is from our users, we need people that are highly efficient in the way they work, would like to improve by challenges they face and have almost obsession for understanding *people* and their needs.  
 
 
 
